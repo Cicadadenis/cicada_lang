@@ -5,6 +5,11 @@
 
 ---
 
+## Установка 
+```bash
+curl -sSL https://raw.githubusercontent.com/Cicadadenis/cicada_lang/refs/heads/main/install.sh | bash
+
+
 ## 🚀 Запуск
 
 ```bash
