@@ -13,4 +13,9 @@ setup(
         "License :: OSI Approved :: MIT License",
     ],
     python_requires=">=3.8",
+    entry_points={
+        "console_scripts": [
+            "cicada=cicada.cicada:main",
+        ],
+    },
 )
