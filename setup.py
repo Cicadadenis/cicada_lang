@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="cicada_lang",
-    version="0.1.1",
+    version="0.1.2",
     description="Язык программирования Cicada",
     author="Cicada3301",
     author_email="email@example.com",
